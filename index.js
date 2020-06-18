@@ -18,13 +18,13 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
-const words = 'webcrente,webcrentes';
+const words = 'paul washer';
 
 /*
  * - Change 'mybot' with your bot account '@'.
  * - Example: if your account '@' is '@twitter_bot', you should write only 'twitter_bot'
  */
-const screenName = 'webcrente_bot';
+const screenName = 'PaulWasher_Bot';
 
 /*
  * If you are a not a programmer, avoid changing anything on the next lines
